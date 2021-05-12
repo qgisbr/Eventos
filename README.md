@@ -1,8 +1,10 @@
+<img src="https://i2.wp.com/qgisbrasil.org/wp-content/uploads/2017/08/qgis_brasil_original.png?" width="300">
+
 # Eventos da Comunidade QGIS Brasil
 
 Confira os eventos realizados pela comunidade QGIS Brasil
 
-## Eventos por ordem cronológicas
+## Eventos por ordem cronológica
 
 Evento | Links | Data 
 ------- | ----- | ---- 
